@@ -1,6 +1,9 @@
 # Youtube course name 
 https://www.youtube.com/watch?v=0sOvCWFmrtA&t=666s
 
+https://www.youtube.com/watch?v=Yw4LmMQXXFs&list=PL8VzFQ8k4U1L5QpSapVEzoSfob-4CR8zM
+
+
 # Backend clone  of social media app by using FastAPI
 
 #### This API  has 4 routes
